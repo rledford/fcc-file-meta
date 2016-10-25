@@ -1,0 +1,11 @@
+{
+  "name": "fmeta",
+  "version": "1.0.0",
+  "description": "freeCodeCamp File Metadata Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Ledford",
+  "license": "MIT"
+}
