@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "latest",
+    "multer": "latest"
+  },
   "author": "Ryan Ledford",
   "license": "MIT"
 }
